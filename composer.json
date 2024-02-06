@@ -1,0 +1,11 @@
+{
+    "name": "chavane798/lboy",
+    "autoload": {
+        "psr-4": {
+            "Chavane798\\Lboy\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
